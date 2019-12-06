@@ -1,0 +1,12 @@
+{
+  "name": "workshop-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p ./",
+    "start": "npm run build -- -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
